@@ -1,0 +1,43 @@
+
+.banner{
+    background-image: url(../images/img1.jpg) ;
+    background-image: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.slider{
+   
+    background-color: rgba(1,1,1,.4);
+    color: white;
+    padding: 50px;
+   
+}
+.slider h1{
+    font-size:30px;
+    margin-bottom: 30px;
+
+}
+.slider p{
+    font-size: 17px;
+    margin-bottom: 30px;
+
+
+}
+.slider button{
+    margin-bottom:20px;
+
+}
+.custom_ind{
+   
+    bottom:20px;
+   
+}
+.custom_ind [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 3px;
+    margin-left: 3px;
+    background-color:rgb(1,1,1.5);
+   
+}
